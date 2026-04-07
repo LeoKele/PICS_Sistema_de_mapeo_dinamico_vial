@@ -1,0 +1,17 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.vscode/
+
+
+# --- Datos ---
+# Ignoramos los datos intermedios pesados para no bloquear GitHub
+data/processed/*
+data/raw/*
+
