@@ -14,4 +14,3 @@ venv/
 # Ignoramos los datos intermedios pesados para no bloquear GitHub
 data/processed/*
 data/raw/*
-
