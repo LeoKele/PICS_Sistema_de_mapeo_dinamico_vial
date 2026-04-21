@@ -8,9 +8,13 @@ env/
 venv/
 .env
 .vscode/
+.venv/
 
 
 # --- Datos ---
 # Ignoramos los datos intermedios pesados para no bloquear GitHub
-data/processed/*
-data/raw/*
+data/processed/dataset_local
+data/processed/dataset_global
+data/processed/dataset_global.rar
+data/raw/dataset_local
+data/raw/RDD2022
